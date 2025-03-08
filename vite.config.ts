@@ -14,10 +14,10 @@ export default defineConfig({
     },
 
     manifest: {
-      name: 'botonera-bendita',
-      short_name: 'botonera-bendita',
-      description: 'botonera-bendita',
-      theme_color: '#ffffff',
+      name: 'Botonera Bendita',
+      short_name: 'Botonera Bendita',
+      description: 'Botonera Bendita',
+      theme_color: '#121212',
     },
 
     workbox: {
